@@ -17,7 +17,7 @@ linux:
 `$ node Puzzles_Bitcoin_v10.js`
 `$ node Multi-Puzzles_Bitcoin_v10.js`
 
-windows:
+Windows PowerShell: 
 
 `npm install`
 `node Puzzles_Bitcoin_v10.js`
