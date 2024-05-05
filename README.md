@@ -1,5 +1,3 @@
-![alt text](1.png)
-
 # Instruções
 
 `Linha 12`
@@ -24,3 +22,6 @@ Windows PowerShell:
 `npm install`
 `node Puzzles_Bitcoin_v10.js`
 `node Multi-Puzzles_Bitcoin_v10.js`
+
+![alt text](1.png)
+![alt text](2.png)
