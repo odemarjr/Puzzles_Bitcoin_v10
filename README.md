@@ -1,5 +1,10 @@
 # Instruções
 
+DOAÇÕES
+PIX - CPF 032.998.869-75
+Odemar Ribeiro Junior
+
+
 `Linha 12`
 const min = 0x20000000000000000  // => Alterar aqui 66 bits
 
