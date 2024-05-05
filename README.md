@@ -1,7 +1,8 @@
 # Instruções
 
 `Linha 12`
-const min = 0x20000000000000000  // => Alterar aqui66 bits
+const min = 0x20000000000000000  // => Alterar aqui 66 bits
+
 `Linha 13`
 const max = 0x3ffffffffffffffff  // => Alterar aqui
 
@@ -13,11 +14,11 @@ alterar arquivo na pasta puzzles.txt // => Alterar aqui
 linux:
 
 `$ npm install`
-`$ node Puzzles_Bitcoin_v10`
+`$ node Puzzles_Bitcoin_v10.js`
 `$ node Multi-Puzzles_Bitcoin_v10.js`
 
 windows:
 
 `npm install`
-`node Puzzles_Bitcoin_v10`
+`node Puzzles_Bitcoin_v10.js`
 `node Multi-Puzzles_Bitcoin_v10.js`
