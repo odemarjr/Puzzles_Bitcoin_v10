@@ -1,0 +1,13 @@
+Public Address: 18ZMbwUFLMHoZBbfpCjUJQTCMCbktshgpe
+Private (HEX):  000000000000000000000000000000000000000000000001a838b13505b26867
+Decimal (KEY):  30568377312064202855
+Private (WIF):  KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qZM21gaY8WN2CdwnTG57: 18ZMbwUFLMHoZBbfpCjUJQTCMCbktshgpe
+Private (WIF):  5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ipCnYRNeQuRFKarWVVs
+Milissegundos:  1061
+Total  chaves:  8192
+
+======================================================================================================== 
+
+Chave maior que (max) então fecha o programa Decimal KEY: 30568377312064200704.
+
+======================================================================================================== 
